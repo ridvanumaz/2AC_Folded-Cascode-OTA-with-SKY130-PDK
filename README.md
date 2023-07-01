@@ -58,3 +58,16 @@ For tools, PDK and bias circuit that are used in this repo, check [my previous r
   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="/Results_schematics/cmrr_phase.png" width="45%" /> 
 </p>
+
+#### 6) PSRR 
+##### Testbench
+<p align="center">
+  <img src="/Results_schematics/pssr_tb.png">
+</p>
+
+##### PSRR (p)(n)Gain
+<p float="left">
+  <img src="/Results_schematics/pssrp_gain.png" width="45%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/Results_schematics/pssrn_gain.png" width="45%" /> 
+</p>
