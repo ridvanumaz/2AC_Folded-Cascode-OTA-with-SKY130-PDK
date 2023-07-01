@@ -45,3 +45,16 @@ For tools, PDK and bias circuit that are used in this repo, check [my previous r
   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="/Results_schematics/slew_rate.png" width="45%" /> 
 </p>
+
+#### 5) CMRR 
+##### Testbench
+<p align="center">
+  <img src="/Results_schematics/cmrr_schematics.png">
+</p>
+
+##### Gain and phase 
+<p float="left">
+  <img src="/Results_schematics/cmrr_gain.png" width="45%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/Results_schematics/cmrr_phase.png" width="45%" /> 
+</p>
