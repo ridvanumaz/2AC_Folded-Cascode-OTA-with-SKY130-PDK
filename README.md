@@ -38,7 +38,7 @@ For tools, PDK and bias circuit that are used in this repo, check [my previous r
   <img src="/Results_schematics/step_result.png" width="45%" /> 
 </p>
 
-#### 3) Slew-rate 
+#### 4) Slew-rate 
 ##### Testbench and plot 
 <p float="left">
   <img src="/Results_schematics/slew_rate_tb.png"  width="45%" />
